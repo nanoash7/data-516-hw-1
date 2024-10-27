@@ -1,0 +1,10 @@
+Item,Server A,Server B,Server C,Server D,Server E
+CPU,2,2,2,1,1
+GPU,0,4,0,0,2
+RAM,4,4,4,8,8
+SSD,1,2,1,1,0
+HDD,0,0,0,20,20
+MOBO,1,1,1,1,1
+NIC,2,2,2,2,1
+PSU,1,2,1,1,1
+TRAY,1,1,1,1,1
